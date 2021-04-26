@@ -12,6 +12,8 @@ List of private repos with links to preview, when available
 
 5. Early mobile-MVP app for personal non-profit side project ( https://www.youtube.com/watch?v=P2Tdzv_1WOU )
 
-6. Helping a friend with his finance trading idea Very early development of MVP ( No finalized preview yet available )
+6. Backend / Server with NodeJS / Expresss code on Google Cloud to fetch data from Firebase Datastore and Geocode API ( Endpoints used to fetch election data and grocode API data for MVP Web app and MVP mobile app mentioned on 4 and 5 )
+
+7. Helping a friend with his finance trading idea Very early development of MVP ( No finalized preview yet available )
 
 
